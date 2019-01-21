@@ -74,8 +74,8 @@ namespace
       char const* value = JsonRpc::getString(req, "/params/value", true);
       cmdline += " set ";
       cmdline += key;
-      cmdline + " ";
-      cmdline + value;
+      cmdline += std::string(" ");
+      cmdline += std::string(value);
     }
 
     g_autofree gchar* out = nullptr;
@@ -265,7 +265,7 @@ AppSettingsService::set(cJSON const* req)
   cJSON const* conf = getDynamicConfig(key);
   if (conf)
   {
-    res = exec(req, m_config, DynamicPropertyOperation::Set);
+    res = exec(req, conf, DynamicPropertyOperation::Set);
   }
   else
   {

@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fd26378d452e5bc3c2d4bed0dcbc4621/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/682893ad044d2f21e985aa4a7447ccc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2caffaf95020d1ae5f725fc92da17cef/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fd29cc7cde9ee32ce93a89ef8380b19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62a811028a296c06819bda086bca6e02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b93117bc41f87f9d7fe5aed03a64dec8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4eb37804435c31d15f24a95bf39933bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71cfc716c44409605560fff8de338f92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e34b11246d52d2514bcfb63f41c0fc78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e3c29ed9de34787622b64ec8ede9a3ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7e5fcc2b2a3e2e3cb7a1c5adb0a09fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/86e0e471f8521773e41230ae75172172/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e1b24d16c3dc489fb6847386c8ccd95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb2ca45cd802573a224169573f5ad1c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83c9d45cf18955aea60330d3796fcd49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14dd6b9fa64fc6d2332da0cf45946fff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fd47c5ca58c9d003a769bfbb484c5c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/61b738d18cdd45372be1d365c01baa5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6cc20fdd196cbb669bff66929cadf0f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d614162eb9977ba2f29a4aa8df193c50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e7a987e0f8c1aefff74ec7ca5df22b7a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9803daf5fcf08be6dc85622070a20e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6c002969cd2884554765779c299b3c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3bd94a63da8cfe9abd8a57f4ccf1c734/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a1ff5bc671ed7ae65ab1b33831e98100/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ea7a9b6dcc77cd72b3b6fb5b6ec201ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87a7d38cc1210ab87fd9f2b3a242f2aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0dc043e331156441ee51e15a33261c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2dd5bedc81c003fdcbf382918d4b6c7b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4f491657a76c631882d69dcfdf88c9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/70e2775ba8095a480528011fdb337073/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/591f7affe63a81143df980a2861bf0db/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:design:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fd26378d452e5bc3c2d4bed0dcbc4621/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fd26378d452e5bc3c2d4bed0dcbc4621/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2caffaf95020d1ae5f725fc92da17cef/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2caffaf95020d1ae5f725fc92da17cef/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e7a987e0f8c1aefff74ec7ca5df22b7a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e7a987e0f8c1aefff74ec7ca5df22b7a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:15:9-40
+activity#bleconfd.tc.com.bleconfd_example.DrawerActivity
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:screenOrientation
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:17:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fd26378d452e5bc3c2d4bed0dcbc4621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/fd26378d452e5bc3c2d4bed0dcbc4621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/682893ad044d2f21e985aa4a7447ccc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/682893ad044d2f21e985aa4a7447ccc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2caffaf95020d1ae5f725fc92da17cef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2caffaf95020d1ae5f725fc92da17cef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fd29cc7cde9ee32ce93a89ef8380b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fd29cc7cde9ee32ce93a89ef8380b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62a811028a296c06819bda086bca6e02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62a811028a296c06819bda086bca6e02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b93117bc41f87f9d7fe5aed03a64dec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b93117bc41f87f9d7fe5aed03a64dec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4eb37804435c31d15f24a95bf39933bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4eb37804435c31d15f24a95bf39933bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71cfc716c44409605560fff8de338f92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71cfc716c44409605560fff8de338f92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e34b11246d52d2514bcfb63f41c0fc78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e34b11246d52d2514bcfb63f41c0fc78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e3c29ed9de34787622b64ec8ede9a3ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e3c29ed9de34787622b64ec8ede9a3ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7e5fcc2b2a3e2e3cb7a1c5adb0a09fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7e5fcc2b2a3e2e3cb7a1c5adb0a09fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/86e0e471f8521773e41230ae75172172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/86e0e471f8521773e41230ae75172172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e1b24d16c3dc489fb6847386c8ccd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e1b24d16c3dc489fb6847386c8ccd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb2ca45cd802573a224169573f5ad1c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb2ca45cd802573a224169573f5ad1c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83c9d45cf18955aea60330d3796fcd49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83c9d45cf18955aea60330d3796fcd49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14dd6b9fa64fc6d2332da0cf45946fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14dd6b9fa64fc6d2332da0cf45946fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fd47c5ca58c9d003a769bfbb484c5c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fd47c5ca58c9d003a769bfbb484c5c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/61b738d18cdd45372be1d365c01baa5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/61b738d18cdd45372be1d365c01baa5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6cc20fdd196cbb669bff66929cadf0f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6cc20fdd196cbb669bff66929cadf0f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d614162eb9977ba2f29a4aa8df193c50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d614162eb9977ba2f29a4aa8df193c50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6fe44beb6024876393ab202799f5c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e7a987e0f8c1aefff74ec7ca5df22b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e7a987e0f8c1aefff74ec7ca5df22b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9803daf5fcf08be6dc85622070a20e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e9803daf5fcf08be6dc85622070a20e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6c002969cd2884554765779c299b3c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6c002969cd2884554765779c299b3c2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3bd94a63da8cfe9abd8a57f4ccf1c734/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3bd94a63da8cfe9abd8a57f4ccf1c734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a1ff5bc671ed7ae65ab1b33831e98100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a1ff5bc671ed7ae65ab1b33831e98100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ea7a9b6dcc77cd72b3b6fb5b6ec201ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ea7a9b6dcc77cd72b3b6fb5b6ec201ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87a7d38cc1210ab87fd9f2b3a242f2aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87a7d38cc1210ab87fd9f2b3a242f2aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0dc043e331156441ee51e15a33261c76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0dc043e331156441ee51e15a33261c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2dd5bedc81c003fdcbf382918d4b6c7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2dd5bedc81c003fdcbf382918d4b6c7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4f491657a76c631882d69dcfdf88c9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4f491657a76c631882d69dcfdf88c9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/70e2775ba8095a480528011fdb337073/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/70e2775ba8095a480528011fdb337073/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/591f7affe63a81143df980a2861bf0db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justingasper1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/591f7affe63a81143df980a2861bf0db/AndroidManifest.xml:20:5-44
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justingasper1/Documents/Git/bleconfd-tc/AndroidClientApp/app/src/main/AndroidManifest.xml

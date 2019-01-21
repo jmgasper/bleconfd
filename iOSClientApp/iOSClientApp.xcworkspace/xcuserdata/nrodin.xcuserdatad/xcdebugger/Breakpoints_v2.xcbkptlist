@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/RxBluetoothKit/Source/Peripheral.swift"
+            timestampString = "566864709.238204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "842"
+            endingLineNumber = "842"
+            landmarkName = "ensureValidPeripheralStateAndCallIfSucceeded(for:postSubscriptionCall:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxBluetoothKit.Peripheral.ensureValidPeripheralStateAndCallIfSucceeded&lt;A&gt;(for: RxSwift.Observable&lt;A&gt;, postSubscriptionCall: () -&gt; ()) -&gt; RxSwift.Observable&lt;A&gt;"
+                  moduleName = "RxBluetoothKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nrodin/Documents/GIT/TopCoder/android/iOSClientApp/Pods/RxBluetoothKit/Source/Peripheral.swift"
+                  timestampString = "566864071.399449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "842"
+                  endingLineNumber = "842"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; RxSwift.Observable&lt;A&gt; in RxBluetoothKit.Peripheral.ensureValidPeripheralStateAndCallIfSucceeded&lt;A&gt;(for: RxSwift.Observable&lt;A&gt;, postSubscriptionCall: () -&gt; ()) -&gt; RxSwift.Observable&lt;A&gt;"
+                  moduleName = "RxBluetoothKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nrodin/Documents/GIT/TopCoder/android/iOSClientApp/Pods/RxBluetoothKit/Source/Peripheral.swift"
+                  timestampString = "566864071.400864"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "843"
+                  endingLineNumber = "843"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -21,11 +21,15 @@
         "dynamic_properties": [
           {
             "name": "mac",
-            "exec": "getmac.sh"
+            "exec": "./getmac.sh"
           },
           {
             "name": "example",
             "exec": "/bin/pwd"
+          },
+          {
+            "name": "root-path",
+            "exec": "./dynamic_properties.sh"
           }
         ]
       }
